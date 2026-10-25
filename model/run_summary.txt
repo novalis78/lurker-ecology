@@ -1,0 +1,9 @@
+trap escape (no foothold decay) vs mu: {1e-05: (np.float64(8.75), 0.1), 3e-05: (np.float64(8.24), 0.3), 0.0001: (np.float64(4.35), 0.7333333333333333), 0.0003: (np.float64(3.11), 0.9666666666666667), 0.001: (np.float64(0.96), 1.0)}
+trap escape (foothold lifetime 500 Myr) vs mu: {1e-05: (np.float64(5.88), 0.4), 3e-05: (np.float64(5.68), 0.6), 0.0001: (np.float64(2.25), 0.8333333333333334), 0.0003: (np.float64(2.17), 1.0), 0.001: (np.float64(1.27), 1.0)}
+scenario summaries (medians over 30 runs):
+  sparse: 100 civilizations / 10 Gyr {'n_final': 61.0, 'L_final': 73.0, 'escape_median_Myr': 503.5, 'escaped': 30, 'surv_first_Gyr': 0.3380023955283471, 'surv_last_Gyr': 0.4916647473650731}
+  moderate: 1,000 / 10 Gyr {'n_final': 695.0, 'L_final': 832.5, 'escape_median_Myr': 41.0, 'escaped': 30, 'surv_first_Gyr': 0.45219828452931743, 'surv_last_Gyr': 0.4997510587348396}
+  abundant: 10,000 / 10 Gyr {'n_final': 7106.5, 'L_final': 8564.0, 'escape_median_Myr': 9.5, 'escaped': 30, 'surv_first_Gyr': 0.4942747614850939, 'surv_last_Gyr': 0.5009588806132643}
+trap escape vs mu: {1e-05: (np.float64(5.8835), 0.4), 3e-05: (np.float64(5.6795), 0.6), 0.0001: (np.float64(2.247), 0.8333333333333334), 0.0003: (np.float64(2.1685), 1.0), 0.001: (np.float64(1.2685), 1.0)}
+freeze: Q reaches 1 at n* = 6 for V/B=1.5, delta=0.1, n_half=5
+freeze: Q reaches 1 at n* = 7 for V/B=1.5, delta=0.1, n_half=10

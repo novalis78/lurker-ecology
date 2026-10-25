@@ -1,0 +1,7 @@
+Highlights
+
+- Silence explanations without local enforcement fail; with it, they become lurkers
+- Light-lag and the visibility of fast strikes force quiet enforcers in every system
+- Rival lurker lineages face a volunteer's dilemma in which crowding protects targets
+- Survivors seed lineages, so protection grows with galactic age: lateness protects
+- An oxygen census and an impact excess among technosignature worlds test the model

@@ -1,0 +1,21 @@
+# private working material (not published)
+convo.txt
+original-conversation.txt
+critique.txt
+ASSESSMENT.md
+CHAINS.md
+lurker_ecology_v1_backup.tex
+revision*/
+paper2/
+.claude/
+# third-party papers (copyright)
+1302.0606v1.*
+1903.00770v1.*
+onae006.*
+aestivation.*
+hunters.pdf
+hunters_raw.txt
+dam2026.*
+# build artifacts
+*.aux *.log *.out *.spl *.fls *.fdb_latexmk *.synctex.gz *.bbl *.blg *.toc
+build.log
