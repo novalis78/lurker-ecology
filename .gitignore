@@ -6,7 +6,9 @@ ASSESSMENT.md
 CHAINS.md
 lurker_ecology_v1_backup.tex
 revision*/
-paper2/
+paper2/NOTES_*.md
+paper2/*_skeleton.tex
+paper2/build.log
 .claude/
 # third-party papers (copyright)
 1302.0606v1.*
