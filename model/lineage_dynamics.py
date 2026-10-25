@@ -108,7 +108,7 @@ if __name__ == "__main__":
         esc = [r["t_escape"] for r in runs if r["t_escape"] is not None]
         summary[label] = dict(n_final=float(np.median(N[:, -1])), L_final=float(np.median([r["L"][-1] for r in runs])),
                               escape_median_Myr=float(np.median(esc)) if esc else None, escaped=len(esc),
-                              surv_first_Gyr=float(np.nanmean(y[:2])), surv_last_Gyr=float(np.nanmean(y[-2:])))
+                              surv_first_2Gyr=float(np.nanmean(y[:2])), surv_last_2Gyr=float(np.nanmean(y[-2:])), surv_first_1Gyr=float(y[0]), surv_last_1Gyr=float(y[-1]))
     ax[0, 0].set(xlabel="time (Gyr)", ylabel="lineages coexisting locally, n(t)", title="(a) Local lineage count", yscale="log", ylim=(0.8, 2e4))
     ax[0, 0].legend(fontsize=8); ax[0, 0].grid(alpha=.3)
     ax[0, 1].set(xlabel="epoch (Gyr)", ylabel="fraction of civilizations surviving window", ylim=(0, 1.05),
