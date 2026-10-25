@@ -16,8 +16,8 @@ of oxygen worlds and an excess of impact scars among technosignature planets.
 
 - `lurker_ecology.tex`, `lurker_ecology.pdf` — the manuscript (elsarticle, compiles on Overleaf)
 - `highlights.txt` — Elsevier highlights, uploaded separately
-- `fig_lineage_dynamics.pdf` — Figure 3
-- `model/` — the birth-and-death simulation behind Figure 3 (`python3 lineage_dynamics.py`)
+- `fig_lineage_dynamics.pdf` — Figure 2
+- `model/` — the birth-and-death simulation behind Figure 2 (`python3 lineage_dynamics.py`)
 
 ## Licence
 

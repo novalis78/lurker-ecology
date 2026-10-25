@@ -1,6 +1,6 @@
 # Lineage dynamics model
 
-Minimal birth-and-death simulation behind Figure 3 of *Lurker Ecology* (Lopin 2026), Section 6.8.
+Minimal birth-and-death simulation behind Figure 2 of *Lurker Ecology* (Lopin 2026), Section 6.8.
 
 ```
 python3 lineage_dynamics.py
