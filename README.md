@@ -19,6 +19,12 @@ of oxygen worlds and an excess of impact scars among technosignature planets.
 - `fig_lineage_dynamics.pdf` — Figure 2
 - `model/` — the birth-and-death simulation behind Figure 2 (`python3 lineage_dynamics.py`)
 
+## Companion paper
+
+`paper2/` — *Treading Carefully: Decision-Making for an Awakening Civilization in a Lurker Ecology*
+(draft revision 9). A conditional theoretical analysis of what would follow, for a civilization that
+accepted the ecology above, with its own models (`paper2/model/`) and a README stating the levels of claim.
+
 ## Licence
 
 Manuscript and figures CC BY 4.0; code MIT. See `LICENSE`.
