@@ -21,3 +21,6 @@ dam2026.*
 # build artifacts
 *.aux *.log *.out *.spl *.fls *.fdb_latexmk *.synctex.gz *.bbl *.blg *.toc
 build.log
+
+# submission material with third-party emails (not published)
+acta/
