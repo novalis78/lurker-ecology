@@ -1,6 +1,7 @@
 # Lurker Ecology: Rival Embedded Probes and a Falsifiable Resolution of the Fermi Paradox
 
 Lennart Lopin, Euler's Identity LLC. Preprint, October 2026. Prepared for submission to *Acta Astronautica*.
+SSRN: https://ssrn.com/abstract=7668018 · DOI: [10.2139/ssrn.7668018](https://doi.org/10.2139/ssrn.7668018)
 
 **Claim in one paragraph.** If technological civilizations are common, every explanation of the Great
 Silence either lacks enforcement and fails when a few civilizations deviate, or adds local automated
@@ -22,7 +23,7 @@ of oxygen worlds and an excess of impact scars among technosignature planets.
 ## Companion paper
 
 `paper2/` — *Treading Carefully: Decision-Making for an Awakening Civilization in a Lurker Ecology*
-(draft revision 9). A conditional theoretical analysis of what would follow, for a civilization that
+(draft revision 9; SSRN preprint 7670538, DOI [10.2139/ssrn.7670538](https://doi.org/10.2139/ssrn.7670538)). A conditional theoretical analysis of what would follow, for a civilization that
 accepted the ecology above, with its own models (`paper2/model/`) and a README stating the levels of claim.
 
 ## Licence
@@ -31,4 +32,4 @@ Manuscript and figures CC BY 4.0; code MIT. See `LICENSE`.
 
 ## Citation
 
-Lopin, L. (2026). Lurker ecology: rival embedded probes and a falsifiable resolution of the Fermi paradox. Preprint.
+Lopin, L. (2026). Lurker ecology: rival embedded probes and a falsifiable resolution of the Fermi paradox. SSRN preprint 7668018. https://doi.org/10.2139/ssrn.7668018

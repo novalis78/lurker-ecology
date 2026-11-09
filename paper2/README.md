@@ -1,6 +1,7 @@
 # Treading Carefully: Decision-Making for an Awakening Civilization in a Lurker Ecology
 
 Companion to *Lurker Ecology*. Draft revision 9, October 2026. Lennart Lopin, Euler's Identity LLC.
+SSRN: https://ssrn.com/abstract=7670538 · DOI: [10.2139/ssrn.7670538](https://doi.org/10.2139/ssrn.7670538)
 
 This is a **conditional theoretical analysis**. It assumes the ecology proposed in the companion paper
 and derives what would follow for a civilization that accepted it. The paper mixes three levels of
